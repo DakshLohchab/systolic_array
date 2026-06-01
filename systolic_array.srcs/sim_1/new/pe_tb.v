@@ -6,7 +6,7 @@ module pe_tb();
     wire signed [25:0] ps;
     wire valid_out;
     
-    pe dut(.clk(clk),.rst_n(rst_n),.a(a),.b(b),.a_out(a_out),
+    pe dut(.clk(clk),.rst_n(rst_n),.a(a),.b(b),.a_out(a_out),.valid(valid),
         .b_out(b_out),.ps(ps),.valid_out(valid_out));
     always #5 clk = ~clk;
     initial begin
