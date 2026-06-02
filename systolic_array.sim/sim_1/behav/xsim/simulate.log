@@ -1,4 +1,7 @@
 Time resolution is 1 ps
-PS =        19
-Test Passed
-INFO: xsimkernel Simulation Memory Usage: 499324 KB (Peak: 556596 KB), Simulation CPU Usage: 1910 ms
+c00 =        19
+c01 =         8
+c10 =        20
+c11=       32
+$finish called at time : 95 ns : File "/home/dlohchab/systolic_array/systolic_array.srcs/sim_1/new/systolic_tb.v" Line 50
+INFO: xsimkernel Simulation Memory Usage: 499340 KB (Peak: 556612 KB), Simulation CPU Usage: 2570 ms
