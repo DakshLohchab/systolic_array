@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue Jun  2 19:11:40 2026
+# Process ID         : 45978
+# Current directory  : /home/dlohchab/systolic_array/systolic_array.runs/impl_1
+# Command line       : vivado -log systolic_2X2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source systolic_2X2.tcl -notrace
+# Log file           : /home/dlohchab/systolic_array/systolic_array.runs/impl_1/systolic_2X2.vdi
+# Journal file       : /home/dlohchab/systolic_array/systolic_array.runs/impl_1/vivado.jou
+# Running On         : localhost.localdomain
+# Platform           : rhel
+# Operating System   : Red Hat Enterprise Linux 10.2 (Coughlan)"
+RELEASE_TYPE=stable
+# Processor Detail   : AMD Athlon Silver 3050U with Radeon Graphics
+# CPU Frequency      : 2555.332 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 2
+# Host memory        : 5819 MB
+# Swap memory        : 6224 MB
+# Total Virtual      : 12043 MB
+# Available Virtual  : 5628 MB
+#-----------------------------------------------------------
+source systolic_2X2.tcl -notrace

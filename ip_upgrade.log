@@ -1,0 +1,39 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (lin64) Build 6299465 Fri Nov 14 12:34:56 MST 2025
+| Date         : Tue Jun  2 18:14:07 2026
+| Host         : localhost.localdomain running 64-bit Red Hat Enterprise Linux 10.2 (Coughlan)"
+RELEASE_TYPE=stable
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_axi_ip_0_0 (user.org:user:axi_ip:1.0 (Rev. 1)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (lin64) Build 6299465 Fri Nov 14 12:34:56 MST 2025
+| Date         : Tue Jun  2 18:14:07 2026
+| Host         : localhost.localdomain running 64-bit Red Hat Enterprise Linux 10.2 (Coughlan)"
+RELEASE_TYPE=stable
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'axi_ip_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of axi_ip_0 (user.org:user:axi_ip:1.0 (Rev. 1)) to current project options.
+

@@ -1,0 +1,4 @@
+axi_ip_slave_lite_v1_0_S00_AXI.v,verilog,xil_defaultlib,../../../../systolic_array.gen/sources_1/ip/axi_ip_0/hdl/axi_ip_slave_lite_v1_0_S00_AXI.v,incdir="../../../../../Xilinx/2025.2/data/rsb/busdef"
+axi_ip.v,verilog,xil_defaultlib,../../../../systolic_array.gen/sources_1/ip/axi_ip_0/hdl/axi_ip.v,incdir="../../../../../Xilinx/2025.2/data/rsb/busdef"
+axi_ip_0.v,verilog,xil_defaultlib,../../../../systolic_array.gen/sources_1/ip/axi_ip_0/sim/axi_ip_0.v,incdir="../../../../../Xilinx/2025.2/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v
